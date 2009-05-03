@@ -7,6 +7,6 @@ Standards-Version: 3.8.0
 Homepage: http://github.com/siti/boptester/tree/master
 
 Package: boptester
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, python, boptest
 Description: Test script to run various tests on buffer overflow protections.
