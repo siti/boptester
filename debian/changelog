@@ -1,3 +1,9 @@
+boptester (0.1-1ubuntu2) jaunty; urgency=low
+
+  * fix section
+
+ -- Stephen Cook <stephen@stephen-laptop.xesec.com>  Mon, 04 May 2009 00:12:24 +1200
+
 boptester (0.1-1ubuntu1) jaunty; urgency=low
 
   * Initial release
