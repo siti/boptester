@@ -1,0 +1,6 @@
+Boptester is a python wrapper script for various buffer overflow protection
+mechanisms.  It is based off paxtest by Peter Busser <peter@adamantix.org>.
+
+usage:
+boptester.py
+<Prints out test results>
