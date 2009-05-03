@@ -1,0 +1,12 @@
+Source: boptester
+Section: utilities
+Priority: extra
+Maintainer: Stephen Cook <sitiveni@gmail.com>
+Build-Depends: cdbs, debhelper (>= 7), python
+Standards-Version: 3.8.0
+Homepage: http://github.com/siti/boptester/tree/master
+
+Package: boptester
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, boptest
+Description: Test script to run various tests on buffer overflow protections.
